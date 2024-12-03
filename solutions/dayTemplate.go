@@ -1,6 +1,8 @@
 package solutions
 
-type DayTemplate struct{}
+type DayTemplate struct {
+	inputPath string
+}
 
 func (d DayTemplate) SolvePartOne() any {
 
