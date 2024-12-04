@@ -19,6 +19,9 @@ func GetSolutionPool() SolutionPool {
 			DayTwo{
 				inputPath: "./inputs/day2.txt",
 			},
+			DayThree{
+				inputPath: "./inputs/day3.txt",
+			},
 		},
 	}
 }
